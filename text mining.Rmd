@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # text mining in R
 
 ## create corpus
+
 ```{r}
 library(tm)
 
